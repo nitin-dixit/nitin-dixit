@@ -1,6 +1,5 @@
-## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p><br>
-
-<p align="center">
+## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
+<p align="left">
 	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nitin-a-dixit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://stackoverflow.com/users/9164526/nitin-dixit"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
