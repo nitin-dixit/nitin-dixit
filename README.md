@@ -1,4 +1,4 @@
-### <p align="center"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
+## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p><br>
 
 <p align="center">
 	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit.svg?label=GitHub&style=social" alt="GitHub"></a>
