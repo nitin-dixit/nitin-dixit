@@ -1,9 +1,10 @@
-## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
+## <p align="left"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
+<p align="center">
 <a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit?label=Followers&logo=github&style=social" alt="GitHub"></a>
 <a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/watchers/nitinajaydixit/nitinajaydixit?style=social" alt="watchers"></a>
 <a href="https://www.linkedin.com/in/nitin-a-dixit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/9164526/nitin-dixit"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
-<a href="https://twitter.com/NitinAjayDixit"><img src="https://img.shields.io/twitter/follow/nitinajaydixit?label=%40nitinajaydixit&logo=twitter&style=social" alt="stackoverflow"></a>
+<a href="https://twitter.com/NitinAjayDixit"><img src="https://img.shields.io/twitter/follow/nitinajaydixit?label=%40nitinajaydixit&logo=twitter&style=social" alt="stackoverflow"></a></p>
 <br>
 
 
@@ -13,7 +14,7 @@
 	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
 </p><br>
 <p align="center">
-    		<a href="https://github.com/nitinajaydixit/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
+    		<a href="https://github.com/nitinajaydixit/todo-webapp"><img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django" alt="flask"></a>
 	    <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 </p><br>
 
