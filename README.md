@@ -1,9 +1,7 @@
-<p align="center">
-	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="tl;dr - Coding to solve problems."></a>
-</p><br>
+##Nitin Dixit
 
 <p align="center">
-	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/yedhink.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nitin-a-dixit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://stackoverflow.com/users/9164526/nitin-dixit"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
 </p><br>
