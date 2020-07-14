@@ -1,12 +1,15 @@
 ## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
 <a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit?label=Followers&logo=github&style=social" alt="GitHub"></a>
+<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/watchers/nitinajaydixit/nitinajaydixit?style=social" alt="watchers"></a>
 <a href="https://www.linkedin.com/in/nitin-a-dixit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/9164526/nitin-dixit"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
+<a href="https://twitter.com/NitinAjayDixit"><img src="https://img.shields.io/twitter/follow/nitinajaydixit?color=li&label=%40nitinajaydixit&logo=twitter&style=for-the-badge" alt="stackoverflow"></a>
 <br>
 
 
 <p align="center">
         <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
+	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
 	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
 </p><br>
 <p align="center">
