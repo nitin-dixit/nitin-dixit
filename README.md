@@ -10,7 +10,7 @@
 <p align="center">
         <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
 	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
-	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
+	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
 </p><br>
 <p align="center">
     		<a href="https://github.com/nitinajaydixit/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
@@ -26,17 +26,13 @@
 
 
 <p align="center">
-	 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=black" alt="postgresql"></a>
-		 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=black" alt="sqlite"></a>
+	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=black" alt="sqlite"></a>
 </p><br>
 
-<p align="center">
-	<a href="https://github.com/yedhink"><img src="https://img.shields.io/badge/*nix is life-black.svg?logo=linux" alt="linux"></a>
-</p><br>
 
 <p align="center">
-<a href="https://github.com/yedhink/dotfiles_ikigai">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
+<a href="https://github.com/nitinajaydixit/dotfiles_ikigai">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinajaydixit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
 </a></p><br>
 
 
