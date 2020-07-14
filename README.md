@@ -1,5 +1,5 @@
 ## <p align="LEFT"> <img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/nitinajaydixit/nitinajaydixit/blob/master/Assests/Earth.gif" width="24px"></p>
-<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit?label=Followers&logo=github&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/nitin-a-dixit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/9164526/nitin-dixit"><img src="https://img.shields.io/badge/stackoverflow-FE7A16.svg?style=social&logo=stackoverflow" alt="stackoverflow"></a>
 <br>
@@ -10,18 +10,10 @@
 	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
 </p><br>
 <p align="center">
-    		<a href="https://github.com/yedhink/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
-	    <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
+    		<a href="https://github.com/nitinajaydixit/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
+	    <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 </p><br>
 
-
-<p align="center">
-	<a href="https://github.com/yedhink/dotfiles_ikigai">
-		<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code" alt="vscode">
-	</a>
-	<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/neovim-darkgreen.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"></a>
-	<a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/spacemacs-purple.svg?style=for-the-badge&logo=spacemacs&logoColor=white" alt="emacs"></a>
-</p><br>
 
 <p align="center">
 	 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
