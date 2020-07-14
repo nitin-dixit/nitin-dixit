@@ -26,7 +26,7 @@
 
 
 <p align="center">
-	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=black" alt="sqlite"></a>
+	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/MySql-important?style=for-the-badge&logo=mysql&logoColor=black" alt="sqlite"></a>
 </p><br>
 
 
