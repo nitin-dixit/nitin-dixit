@@ -9,9 +9,10 @@
 
 <p align="center">
         <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
-<a href="https://github.com/yedhink/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="cplusplus"></a>
+	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
 </p><br>
-    <a href="https://github.com/yedhink/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
+<p align="center">
+    		<a href="https://github.com/yedhink/todo-webapp"><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>
 	    <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 </p><br>
 
