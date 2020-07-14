@@ -9,20 +9,19 @@
 
 
 <p align="center">
-        <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
-	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
-	<a href="https://github.com/nitinajaydixit/ktu-cs-lab"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
+        <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
+	<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
+	<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
 </p><br>
 <p align="center">
-    		<a href="https://github.com/nitinajaydixit/todo-webapp"><img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django" alt="flask"></a>
-	    <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
+    		<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django" alt="flask"></a>
+	    <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
 </p><br>
 
 
 <p align="center">
-	 <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
-	 <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
-	<a href="https://github.com/yedhink/unittesting-seminar"><img src="https://img.shields.io/badge/org--mode-7F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="orgmode"></a>
+	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
+	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Vim-brightgreen?style=for-the-badge&logo=vim&logoColor=black" alt="vim"></a>
 </p><br>
 
 
