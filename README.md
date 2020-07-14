@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="Coding to Solve problems."></a>
+	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/badge/tl;dr%20--%20self%20explanatory%20bio-black.svg?logo=linux" alt="tl;dr - Coding to solve problems."></a>
 </p><br>
 
 <p align="center">
@@ -57,7 +57,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yedhink&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
 </a></p><br>
 
-### Hi there 👋
+### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px">
 
 <!--
 **nitinajaydixit/nitinajaydixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
