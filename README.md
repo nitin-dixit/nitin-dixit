@@ -1,4 +1,4 @@
-##Nitin Dixit
+# Nitin Dixit
 
 <p align="center">
 	<a href="https://github.com/nitinajaydixit"><img src="https://img.shields.io/github/followers/nitinajaydixit.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-        <a href="https://github.com/yedhink/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
+        <a href="https://github.com/nitinajaydixit/social-robot"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
        <a href="https://github.com/yedhink/dotfiles_ikigai"><img src="https://img.shields.io/badge/javascript-0000CD.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
               <a href="https://github.com/yedhink/covid19-kerala-api"><img src="https://img.shields.io/badge/golang-00a4e3.svg?style=for-the-badge&logo=go&logoColor=black" alt="golang"></a>
 	                    <a href="https://github.com/yedhink/bashed-on-a-feeling"><img src="https://img.shields.io/badge/shell_scripting-63b521.svg?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="gnubash"></a>
