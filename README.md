@@ -1,5 +1,6 @@
 <h2>नमस्ते दोस्तों (Hello Friends)<img src="https://media.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" width="40"> I'm Nitin Dixit.   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50">  </h2>
-<img align='right' src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="350" height="200">
+<img align='right' src="https://media.giphy.com/media/jJxaUysjzO9ri/giphy.gif" width="270" height="400">
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thatnitindixit?label=Follow)](https://twitter.com/intent/follow?screen_name=thatnitindixit)
 [![Linkedin: anmol](https://img.shields.io/badge/-NitinDixit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-a-dixit/)](https://www.linkedin.com/in/nitin-a-dixit/)
@@ -8,24 +9,35 @@
 
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const NitinDixit = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "C/C++", "SQl","HTML","CSS"],
+    askMeAbout: ["Web Dev", "Tech", "Music"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            python: "Django"
+        },
+        databases: ["MongoDb", "MySql"],
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "MERN Stack",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+[![Nitin Dixit's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitinajaydixit&theme=xcode)](https://git.io/nitinajaydixit)
+
 <p align="center">
-<a href="https://github.com/nitinajaydixit/dotfiles_ikigai">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinajaydixit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistics"/>
-</a></p><br>
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitinajaydixit&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinajaydixit&theme=tokyonight" />
+</p>
 
 
 
-<!--
-**nitinajaydixit/nitinajaydixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
