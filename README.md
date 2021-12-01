@@ -23,7 +23,6 @@ const NitinDixit = {
         },
         databases: ["MongoDb", "MySql"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "MERN Stack",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
