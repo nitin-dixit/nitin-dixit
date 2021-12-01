@@ -1,29 +1,15 @@
 <h2>नमस्ते दोस्तों (Hello Friends)<img src="https://media.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" width="40"> I'm Nitin Dixit.   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50">  </h2>
-<img align='right' src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="270">
+<img align='right' src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="350" height="200">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/thatnitindixit?label=Follow)](https://twitter.com/intent/follow?screen_name=thatnitindixit)
+[![Linkedin: anmol](https://img.shields.io/badge/-NitinDixit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-a-dixit/)](https://www.linkedin.com/in/nitin-a-dixit/)
+[![Instagram Badge](https://img.shields.io/badge/-nitin._.dixit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nitin._.dixit/)](https://instagram.com/nitin._.dixit)
+[![Gmail Badge](https://img.shields.io/badge/-13nitindixit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:13nitindixit@gmail.com)](mailto:13nitindixit@gmail.com)
 
 <br>
 
 
-<p align="center">
-        <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/python-DAA520.svg?style=for-the-badge&logo=python&logoColor=black" alt="python"></a>
-	<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/c/c++-373637.svg?style=for-the-badge&logo=c%2B%2B&logoColor=informational" alt="cplusplus"></a>
-	<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" alt="java"></a>
-</p><br>
-<p align="center">
-    		<a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django" alt="flask"></a>
-	    <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"></a>
-</p><br>
 
-
-<p align="center">
-	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
-	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/Vim-brightgreen?style=for-the-badge&logo=vim&logoColor=black" alt="vim"></a>
-</p><br>
-
-
-<p align="center">
-	 <a href="https://github.com/nitinajaydixit/"><img src="https://img.shields.io/badge/MySql-important?style=for-the-badge&logo=mysql&logoColor=black" alt="sqlite"></a>
-</p><br>
 
 
 <p align="center">
