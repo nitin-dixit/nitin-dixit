@@ -6,10 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-nitin._.dixit-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nitin._.dixit/)](https://instagram.com/nitin._.dixit)
 [![Gmail Badge](https://img.shields.io/badge/-13nitindixit@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:13nitindixit@gmail.com)](mailto:13nitindixit@gmail.com)
 
-<br>
-
-
-
 
 
 <p align="center">
