@@ -1,4 +1,3 @@
-<div style="background-color:#000000">
 <h2 align="center">नमस्ते दोस्तों (Hello Friends)<img src="https://media.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" width="40"> I'm Nitin Dixit.   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50">  </h2>
 <img align='right' src="https://media.giphy.com/media/jJxaUysjzO9ri/giphy.gif" width="270" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinajaydixit&label=Profile%20views&color=0e75b6&style=flat" alt="nitinajaydixit" /> </p>
@@ -41,5 +40,3 @@ const NitinDixit = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-
-</div>
