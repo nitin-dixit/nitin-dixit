@@ -14,7 +14,6 @@
 
 ```javascript
 const NitinDixit = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "C/C++", "SQl","HTML","CSS"],
     askMeAbout: ["Web Dev", "Tech", "Music"],
     technologies: {
@@ -25,7 +24,7 @@ const NitinDixit = {
         databases: ["MongoDb", "MySql"],
     },
     currentFocus: "MERN Stack",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs, only the third one works ;)"
 };
 ```
 [![Nitin Dixit's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitinajaydixit&theme=xcode)](https://git.io/nitinajaydixit)
