@@ -1,5 +1,5 @@
 <h2 align="center">नमस्ते दोस्तों (Hello Friends)<img src="https://media.giphy.com/media/k2pDCEEv8kMRT5OUNB/giphy.gif" width="40"> I'm Nitin Dixit.   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50">  </h2>
-<a href="https://app.daily.dev/nitinajaydixit"><img src="https://api.daily.dev/devcards/bb9f06e58bfd4dc794d2c08f020886f9.png?r=le1" width="400" alt="Nitin Dixit's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/nitinajaydixit"><img src="https://api.daily.dev/devcards/bb9f06e58bfd4dc794d2c08f020886f9.png?r=le1" width="350" height="500" alt="Nitin Dixit's Dev Card" align="right"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinajaydixit&label=Profile%20views&color=0e75b6&style=flat" alt="nitinajaydixit" /> </p>
 <h3 align="left">Let's connect 😉:</h3>
 <p align="left">
