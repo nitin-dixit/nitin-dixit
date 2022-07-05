@@ -29,14 +29,9 @@ const NitinDixit = {
 ```
 [![Nitin Dixit's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitindxt&theme=xcode)](https://git.io/nitindxt)
 
-First Header | Second Header
------------- | -------------
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nitindxt&show_icons=true&theme=radical" /> | <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindxt&theme=radical" />
-<p align="center">
-	
-</p>
 
-
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nitindxt&show_icons=true&theme=radical" /> 
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindxt&theme=radical" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
