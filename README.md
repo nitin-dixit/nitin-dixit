@@ -29,10 +29,11 @@ const NitinDixit = {
 ```
 [![Nitin Dixit's github activity graph](https://activity-graph.herokuapp.com/graph?username=nitindxt&theme=xcode)](https://git.io/nitindxt)
 
+First Header | Second Header
+------------ | -------------
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nitindxt&show_icons=true&theme=radical" /> | <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindxt&theme=radical" />
 <p align="center">
 	
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nitindxt&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindxt&theme=radical" />
 </p>
 
 
