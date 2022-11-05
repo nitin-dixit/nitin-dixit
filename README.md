@@ -33,5 +33,7 @@ const NitinDixit = {
 <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=nitindxt&show_icons=true&theme=radical" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindxt&theme=radical" />
 
+[![@nitindixit's Holopin board](https://holopin.me/nitindixit)](https://holopin.io/@nitindixit)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
